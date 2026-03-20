@@ -35,3 +35,6 @@ All data is saved using localStorage, and tasks remain after refreshing the page
 - CSS
 - JavaScript
 - localStorage
+
+## Desktop Screenshot
+
