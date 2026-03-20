@@ -37,6 +37,6 @@ All data is saved using localStorage, and tasks remain after refreshing the page
 - localStorage
 
 ## Desktop Screenshot
-![To-Do List screenshot](images/screenshot.png)
+![To-Do List screenshot](Screenshot2026-03-20162453.png)
 
 GitHub Pages: [(My To-Do List)](https://tstarwalt06.github.io/To-Do-List/)))
